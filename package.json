@@ -1,0 +1,19 @@
+{
+  "name": "swfobject",
+  "version": "2.2.0",
+  "description": "SWFObject is an easy-to-use and standards-friendly method to embed Flash content, which utilizes one small JavaScript file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SWFObject",
+    "swf",
+    "object",
+    "flash",
+    "embed",
+    "content"
+  ],
+  "author": "Arnout Kazemier",
+  "license": "MIT"
+}
