@@ -16,5 +16,8 @@
     "content"
   ],
   "author": "Arnout Kazemier",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "active-x-obfuscator": "0.0.x"
+  }
 }
