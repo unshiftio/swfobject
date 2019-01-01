@@ -18,6 +18,6 @@
   "author": "Arnout Kazemier",
   "license": "MIT",
   "devDependencies": {
-    "active-x-obfuscator": "0.0.x"
+    "active-x-obfuscator": "~0.0.2"
   }
 }
